@@ -7,12 +7,162 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Barnard will contribute less to faculty and staff benefits in 2025 as it works to recover from a projected $252 million in debt and a growing deficit, Barnard President Laura Rosenbury announced at a faculty meeting on Nov. 11."
+          },
+          {
+            "type": "text",
+            "value": "The cuts are part of a larger plan to improve the college’s financial situation as it faces a negative financial outlook for fiscal year 2025."
+          },
+          {
+            "type": "text",
+            "value": "The college’s deficit—which is projected to stand at $23.3 million at the end of fiscal year 2024—has grown by about $21.8 million over the past decade, according to slides presented at the meeting obtained by Spectator. S&P Global Ratings <a href=\"https://disclosure.spglobal.com/ratings/es/regulatory/article/-/view/type/HTML/id/3227233\">revised</a> its outlook for Barnard from stable to negative in August, citing a growth in debt, recent leadership turnover, and rising expenses."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "deficit.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Barnard’s outstanding debt, including fixed-rate bonds, finance leases, and operating leases, stood at approximately $226.3 million as of June 30, 2023, according to the S&P report. In fiscal year 2025, the college plans to issue approximately $80 million more in debt to help fund the construction of the Roy and Diana Vagelos Science Center, the S&P report shows. Barnard calculates debt differently, and puts its current debt at $172 million with $80 million to be added for construction."
+          },
+          {
+            "type": "text",
+            "value": "The Barnard chapter of the American Association of University Professors wrote in a statement to Spectator that the news of the college’s budget crisis “blindsided” faculty and staff because they have “been shut out of all financial decision-making.”"
+          },
+          {
+            "type": "text",
+            "value": "“Faculty and staff are now being asked to make a series of sacrifices in order to dig the college out of an economic hole that we had no part in making,” the chapter wrote."
+          },
+          {
+            "type": "text",
+            "value": "Barnard’s declining financial situation is <a href=\"https://www.insidehighered.com/opinion/views/2024/02/05/most-colleges-finances-are-biggest-challenge-opinion\">not particularly unique</a> across higher education. Inflation, growing labor costs, and an increase in assumed debt for large capital projects coupled with declining revenues have strained budgets and led to similar cuts at colleges and universities across the country."
+          },
+          {
+            "type": "text",
+            "value": "Barnard has the lowest endowment of the Seven Sisters, a group of private historically women’s liberal arts colleges. With an endowment of $466 million as of fiscal year 2023, Barnard is the only one of the Seven Sisters Sister to not reach $1 billion in endowment. In her <a href=\"https://www.columbiaspectator.com/news/2024/02/05/we-must-commit-to-disagree-better-rosenbury-delivers-inaugural-address-as-10-protesters-escorted-out/\">inaugural address</a> in February, Rosenbury announced a plan to double the college’s endowment and reach $1 billion by 2030."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "endowmentv2.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Forthcoming expense reductions for faculty include limits on travel and business expenses, new monthly tracking of expenses to prevent overruns, adjustment of benefits under guidance by the Joint Faculty and Administrator Benefit Committee, and a reduction of “points imbalance,” which refers to the money Barnard currently owes to Columbia."
+          },
+          {
+            "type": "text",
+            "value": "The college “chose from among JFAB’s recommendations” and “did not implement all of the increases recommended by JFAB after identifying ways to save money in other areas,” the slides state. The committee’s final proposal would have saved the college $3 million in expenses, according to the presentation, and the selected changes are projected to save the college between $2.5 million and $3 million, with $1.5 million realized in fiscal year 2025."
+          },
+          {
+            "type": "text",
+            "value": "At Barnard, faculty and staff currently receive benefits for health insurance and retirement funds. Forthcoming benefit cuts include changes to backup care credit, a two-year wait on tuition benefits for new employees, and a one-year wait on employer contributions to retirement funds. The administration also announced an increase in health care expenses, including deductibles, copays, prescriptions, and out-of-pocket maximums."
+          },
+          {
+            "type": "text",
+            "value": "Following the Nov. 11 faculty meeting, the college’s benefits team updated its plan changes and benefits guide. A Saturday email sent to faculty includes a “corrected” list of “positive” changes to employee plans. Faculty were given 11 days to change their health care and benefit plan and select from the new options."
+          },
+          {
+            "type": "text",
+            "value": "In its list of “corrected information,” the college clarified that it fully covers X-rays and imaging after the deductible; out-of-network emergency room, ambulance, and urgent care benefits are the same as in-network benefits rather than subject to coinsurance."
+          },
+          {
+            "type": "text",
+            "value": "Coverage of out-of-network Telehealth benefits is subject to the deductible and coinsurance rather than not covered; in-network complex imaging is covered at 100 percent after the deductible rather than subject to 20 percent coinsurance after the deductible; out-of-network preventive care benefits are covered at 30 percent coinsurance rather than 40 percent; in-network lab and X-ray visits are covered fully rather than subject to 20 percent coinsurance after the deductible; and out-of-network visits are subject to 30 percent coinsurance rather than 40 percent coinsurance after the deductible."
+          },
+          {
+            "type": "text",
+            "value": "“Pleading poverty and crisis is a classic strategy for spearheading austerity measures, and for enacting unpopular political agendas, whether in colleges or nations. So we need to be wary of such claims,” Barnard’s chapter of AAUP wrote to Spectator. “They were rolled out at break-neck speed, and even the administration doesn’t actually understand the details.”"
+          },
+          {
+            "type": "text",
+            "value": "Rosenbury included in the slides a list of changes that have already been made, including the reduction of “all administrative division non-personnel budgets” by 20 percent, the elimination of 40 unfilled staff positions, the “required review of all requests to hire new staff” members, and the reduced faculty search entertainment budgets."
+          },
+          {
+            "type": "text",
+            "value": "“Barnard is committed to offering a generous benefits package that not only supports the health and financial security of our faculty and staff, but also protects the College’s long-term financial future,” a Barnard spokesperson wrote in a statement to Spectator. “This includes tuition reimbursement for eligible dependents, retirement contributions, dependent care, and life insurance coverage for all eligible employees.”"
+          },
+          {
+            "type": "text",
+            "value": "AAUP wrote that the data presented at the faculty meeting is “completely meaningless without broader context” and “misleading.” The college highlighted during the presentation how much it has expanded its contributions to employee health plans since 2014. However, AAUP wrote that the presentation failed to discuss how inflation and the 21 percent increase in eligible employees since 2018 has impacted these numbers."
+          },
+          {
+            "type": "text",
+            "value": "“More importantly, the growth in benefit expenditures and benefit expenditures per employee are dramatically different if inflation is taken into account. Once the change in the general price level is taken into account, the benefit expenditures per employee have actually decreased in real terms since 2018,” AAUP wrote."
+          },
+          {
+            "type": "text",
+            "value": "A Barnard spokesperson wrote that as health care costs have risen over the years, the college has made adjustments to its health plans “that will preserve the quality of coverage and ensure Barnard employees can continue seeing their current healthcare providers, all while safeguarding the College’s long-term financial stability.”"
+          },
+          {
+            "type": "text",
+            "value": "Najam Haider, chair of Barnard’s religion department, started working at the college in 2010. He told Spectator that the administration has not presented a detailed budget analysis to the faculty since 2019."
+          },
+          {
+            "type": "text",
+            "value": "Haider said health care costs went up for faculty, staff, and the administration in 2018. After first announcing plans to increase costs that summer, Haider said faculty and the administration negotiated the increase over a span of several months and that the final increase was “decided as a community.”"
+          },
+          {
+            "type": "text",
+            "value": "When discussing the current deficit, Haider said, “this isn’t the Barnard that I recognize.”"
+          },
+          {
+            "type": "text",
+            "value": "“In this instance, we were just told there was a budget deficit, we were not given information as to why, we weren’t told, really, where the money was going,” Haider said. “There’s no sense of community, it’s just each person for themselves. It’s just another example over the last year, more than a year, where the sense of community that Barnard has stood for takes a back seat.”"
+          },
+          {
+            "type": "text",
+            "value": "Chuck Ambrose, senior education consultant at the Husch Blackwell law firm and author of “Colleges on the Brink: The Case for Financial Exigency,” told Spectator that “the last thing” administrators hope to do in times of economic crisis is “pass the rising deficit on their employees.”"
+          },
+          {
+            "type": "text",
+            "value": "“Employees face the same cost of living increases that the college is trying to maintain for its operations,” Ambrose said."
+          },
+          {
+            "type": "text",
+            "value": "Ambrose co-authored an <a href=\"https://www.insidehighered.com/opinion/views/2024/02/05/most-colleges-finances-are-biggest-challenge-opinion\">article</a> in Inside Higher Ed with education finance journalist Michael Nietzel earlier this year about the financial crisis in higher education, in which they argued that “free speech battles, donor revolts, legislative scrutiny and student activism are not the higher education threats with which most presidents should be most concerned.”"
+          },
+          {
+            "type": "text",
+            "value": "“At the vast majority of colleges, even some elites, the biggest problem is a more fundamental one, common to most enterprises: how to operate in a financially responsible way,” Ambrose and Nietzel wrote."
+          },
+          {
+            "type": "text",
+            "value": "Speaking to the state of financial transparency at colleges across the country, Ambrose said the industry has done a “very poor job of educating our own campuses on how it actually works.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s hard to expect faculty and staff to know how they can contribute to be a part of the solution when you only hear you’re part of the problem,” Ambrose said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Maya Stahl can be contacted at </i><i>maya.stahl@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>University News Editor Shea Vance can be contacted at </i><i>shea.vance@columbiaspectator.com</i><i>. Follow her on X </i><a href=\"https://twitter.com/SheaVance22\"><i>@SheaVance22</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "With $252 million in projected debt, Barnard makes cuts to faculty and staff benefits",
+        "date": "December 3, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/shea-vance/10/\">Shea Vance</a> and <a href=\"https://www.columbiaspectator.com/contributors/maya-stahl/\">Maya Stahl</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/ana-pekec/\">Ana Pekec</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VQAOHXEGRNA4NMJEESXA2IBADA.jpg",
+        "cover_caption": "Anna Fedorova | Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/15hHqA8_NPX_lju8cxIgzFvgVqcFLTLDK6CUCa29Kr1g/edit?usp=sharing"
       }
     }
   }
